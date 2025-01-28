@@ -1,0 +1,9 @@
+4.1
+(a) The interval [0.5,2] finds a root around 1 with an error of -2.980e-08
+(b) There is no root in the interval [-1,0.5]
+(c) In the interval [-1,2] the bisection method finds the same root as in part a
+
+4.2
+(a) The bisection finds a root expectantly around 1 with an error of 2.44e-05
+(b) The bisection method doesn't find a root in bound of [0,2] this is becase the bisection method relies on a crossing or a root w/ algebraic mulitplicicty not an even integer.
+(c) The code finds a root at zero w/ zero error. This is because the algorithem checks the boundary for each new interval.
