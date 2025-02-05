@@ -1,0 +1,8 @@
+1. Atkinsens Method Derivation
+(p_n+1 - p)/(p_n - p) ~ (p_n+2 - p)/(p_n+1 - p)
+(p_n+1 - p)(p_n+1 - p) = (p_n+2 - p)(p_n - p)
+p_n+1^2 - 2p*p_n+1 + p^2 = p_n+2*p_n - p_n+2*p - p_n*p + p^2
+p_n+1^2 - 2p*p_n+1 = p_n+2*p_n - p_n+2*p - p_n*p
+p_n*p + p_n+2*p - 2p*p_n+1 = p_n+2*p_n - p_n+1^2 
+p(p_n + p_n+2 -2p_n+1) = p_n+2*p_n - p_n+1^2 
+p =( p_n+2*p_n - p_n+1^2 )/(p_n + p_n+2 -2p_n+1)
