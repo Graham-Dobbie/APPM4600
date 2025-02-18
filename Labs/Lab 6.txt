@@ -1,0 +1,3 @@
+3.2
+1. I think that the lazy newton every 4 iterations makes the most sence because the first and maybe second iterations after the update will be helped and then the next are back to linear.
+4. Mine compares very well agianst my class and it only computes 1 time
