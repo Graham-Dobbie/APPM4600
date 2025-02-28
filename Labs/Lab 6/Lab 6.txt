@@ -1,0 +1,6 @@
+3.2
+1. I think that the lazy newton every 4 iterations makes the most sence because the first and maybe second iterations after the update will be helped and then the next are back to linear.
+4. Mine compares very well agianst my classmate and it only computes 1 time
+
+3.3
+2. it seems like the size of h doesn't change the convergence particularly all the much, maybe if the initial guess was more outside of the region of convergence then it would matter
